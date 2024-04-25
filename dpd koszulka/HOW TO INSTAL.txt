@@ -1,0 +1,4 @@
+jak zainstalować na singleplayer
+GTA V(mods)/x64w.rpf/dlcpack/mpbeach/dlc.rpf/x64/models/cdimages/mpbeach.rpf/mp_m_freemode_01_male_freemode_beach
+tam wrzucamy wszystkie pliki z folderu "dpd singleplayer"
+
